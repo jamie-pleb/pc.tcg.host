@@ -1,55 +1,57 @@
-![Header](https://i.imgur.com/QJv0RRt.png)
-# User Guide for Twitch Chat Bot
-
-## Opening Times
-Open from the top of the hour to 3 minutes past.
-
 ## Overview
 This guide provides instructions on how to interact with the Twitch chat bot for trading cards, opening packs, and participating in giveaways.
 
-## Commands and Interactions
-
-### Trading Cards
-- **!openpack**: Open a pack to obtain cards of varied rarity.
-- **!dailypacks**: Check your daily packs.
-
-Giveaways can only be initiated when Fossabot gets 3 lemon emojis (testing) or PlebCentral typed `!pcgiveaway`.
-
-### Giveaways
-- **!pcenter**: Enter the ongoing giveaway.
-
-## Card Rarity
-Cards are categorized into different rarity levels with corresponding probabilities and values:
-- **COMMON**: 🟩 (Probability: N/A, Value: 1)
-- **UNCOMMON**: 🟦 (Probability: N/A, Value: 3)
-- **RARE**: 🟪 (Probability: N/A, Value: N/A)
-- **ULTRA_RARE**: 🟧 (Probability: N/A, Value: 21)
+### Trading Cards - Commands and Interactions
 
 ## Interacting with Packs
 You can open packs to obtain cards and add them to your inventory.
 
+- **!openpack**: Open a pack to obtain cards of varied rarity.
+- **!dailypacks**: Check your daily packs.
+- **!sell <card>**: Sells the card for assigned Value below
+- **!buypack**: Use your currency from Card sales to purchase a pack
+
+# PlebCentral Trading Card Series
+
+![Header Image](https://i.imgur.com/OQg4uQ1.png)
+
+## Collection 01
+
+## Erobb's Card Cuckllection
+
+### Card Rarity
+Cards are categorized into different rarity levels:
+- **COMMON**: 🟩
+- **UNCOMMON**: 🟦
+- **RARE**: 🟪
+- **ULTRA_RARE**: 🟧
+
+### Cards
+
+#### 🟩 - COMMON - Value: 1
+- HELP, Orange, Lemon, Regret, Texime 
+  - ![HELP](https://cdn.7tv.app/emote/61972618eecae7a725bbec59/1x.png)
+  - ![Orange](https://cdn.7tv.app/emote/64b71d69642afce8d4f4803d/1x.png)
+  - ![Lemon](https://cdn.7tv.app/emote/626957f26616fad25e4d3962/1x.png)
+  - ![Regret](https://cdn.7tv.app/emote/62085b44b015a89311a7cf77/1x.png)
+  - ![Texime](https://cdn.7tv.app/emote/610d6c375fc6c587dd5a582b/1x.png)
+
+#### 🟦 - UNCOMMON - Value: 3
+- LimeD, Lime, heCrazy 
+  - ![LimeD](https://cdn.7tv.app/emote/61d13a8e08bb84e20d5e4481/1x.png)
+  - ![Lime](https://cdn.betterttv.net/emote/5ffce332465444316bf60120/1x)
+  - ![heCrazy](https://cdn.7tv.app/emote/60affa8ce5a57956117abc07/1x.png)
+
+#### 🟧 - ULTRA_RARE - Value: 21
+- Ogre, AIRWICK 
+  - ![Ogre](https://cdn.7tv.app/emote/61c71adaef5a587a07458f83/1x.png)
+  - ![AIRWICK](https://cdn.7tv.app/emote/6251c5a367a0c254bdba5353/1x.png)
+
 ## Participating in Giveaways
 Follow the instructions in chat to participate in giveaways and win packs.
 
-Users can @ me in chat as `plebcentral`.
+### Giveaways
+- **!pcgiveaway**: @plebcentral only command.
+- **!pcenter**: Enter the ongoing giveaway.
 
-## Card Details
-
-### COMMON
-![HELP](https://cdn.7tv.app/emote/HELP/1x.webp) ![Orange](https://cdn.7tv.app/emote/Orange/1x.webp) ![Lemon](https://cdn.7tv.app/emote/Lemon/1x.webp) ![Regret](https://cdn.7tv.app/emote/Regret/1x.webp) ![Texime](https://cdn.7tv.app/emote/Texime/1x.webp) 
-- **HELP** (Value: 1)
-- **Orange** (Value: 1)
-- **Lemon** (Value: 1)
-- **Regret** (Value: 1)
-- **Texime** (Value: 1)
-### UNCOMMON
-![LimeD](https://cdn.7tv.app/emote/LimeD/1x.webp) ![Lime](https://cdn.7tv.app/emote/Lime/1x.webp) ![heCrazy](https://cdn.7tv.app/emote/heCrazy/1x.webp) 
-- **LimeD** (Value: 3)
-- **Lime** (Value: 3)
-- **heCrazy** (Value: 3)
-### RARE
-
-### ULTRA_RARE
-![Ogre](https://cdn.7tv.app/emote/Ogre/1x.webp) ![AIRWICK](https://cdn.7tv.app/emote/AIRWICK/1x.webp) 
-- **Ogre** (Value: 21)
-- **AIRWICK** (Value: 21)
+--**only @plebcentral or a 🍋 🍋 🍋 !spin can begin a giveaway**--
