@@ -40,7 +40,7 @@ Cards are categorized into different rarity levels:
 - LimeD, Lime, heCrazy 
   - ![LimeD](https://cdn.7tv.app/emote/61d13a8e08bb84e20d5e4481/1x.png)
   - ![Lime](https://cdn.betterttv.net/emote/5ffce332465444316bf60120/1x)
-  - ![heCrazy](https://cdn.7tv.app/emote/60affa8ce5a57956117abc07/1x.png)
+  - ![heCrazy](https://cdn.7tv.app/emote/60affa8ce5a57956117abc07/1x.gif)
 
 #### 🟧 - ULTRA_RARE - Value: 21
 - Ogre, AIRWICK 
