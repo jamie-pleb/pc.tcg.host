@@ -69,6 +69,4 @@ Follow the instructions in chat to participate in giveaways and win packs.
 ### Giveaways
 - **!pcenter**: Enter the ongoing giveaway.
 
-**only @plebcentral or a 🍋 🍋 🍋 !spin can begin a giveaway**
-
-# Coming Soon 
+#### **only @plebcentral or a 🍋 🍋 🍋 !spin can begin a giveaway**
