@@ -1,7 +1,20 @@
-## Overview
+![Header Image](https://i.imgur.com/OQg4uQ1.png)
+# Overview
 This guide provides instructions on how to interact with the Twitch chat bot for trading cards, opening packs, and participating in giveaways.
+## August - DevCentral Month 01
+- ~~Added the ability to sell cards.~~
+- ~~Integrated currency system for buying packs and selling cards.~~
+- ~~Improved card opening logic and card distribution.~~
 
-### Trading Cards - Commands and Interactions
+## September - DevCentral Month 02
+- Segment code into more files for ease of feature implementation + devx
+- **!pcstake** - ability to stake an ultra rare emote for viewers to **!pcstakeme** <currency>
+- **!pcduel** - duel a fellow chatter for <currency> in which they can **!pcduelyes** in response 
+  **!pcbduel** - duel #plebcentral_bot for <currency> in which you are req. to be BANNED if you lose
+
+##
+
+# PlebCentral's Trading Card Game - Commands and Interactions
 
 ## Interacting with Packs
 You can open packs to obtain cards and add them to your inventory.
@@ -12,8 +25,6 @@ You can open packs to obtain cards and add them to your inventory.
 - **!buypack**: Use your currency from Card sales to purchase a pack
 
 # PlebCentral Trading Card Series
-
-![Header Image](https://i.imgur.com/OQg4uQ1.png)
 
 ## Collection 01
 
@@ -40,7 +51,12 @@ Cards are categorized into different rarity levels:
 - LimeD, Lime, heCrazy 
   - ![LimeD](https://cdn.7tv.app/emote/61d13a8e08bb84e20d5e4481/1x.png)
   - ![Lime](https://cdn.betterttv.net/emote/5ffce332465444316bf60120/1x)
-  - ![heCrazy](https://cdn.7tv.app/emote/60affa8ce5a57956117abc07/1x.gif)
+  - ![heCrazy](https://cdn.7tv.app/emote/60affa8ce5a57956117abc07/1x.png)
+
+#### 🟪 - RARE - Value: 7
+- wings221, EmoneyShrimp 
+  - ![wings221](https://cdn.7tv.app/emote/613a6cfae92aa8cd4ed0e9d6/1x.webp)
+  - ![EmoneyShrimp](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_/default/dark/1.0)
 
 #### 🟧 - ULTRA_RARE - Value: 21
 - Ogre, AIRWICK 
@@ -51,7 +67,8 @@ Cards are categorized into different rarity levels:
 Follow the instructions in chat to participate in giveaways and win packs.
 
 ### Giveaways
-- **!pcgiveaway**: @plebcentral only command.
 - **!pcenter**: Enter the ongoing giveaway.
 
---**only @plebcentral or a 🍋 🍋 🍋 !spin can begin a giveaway**--
+**only @plebcentral or a 🍋 🍋 🍋 !spin can begin a giveaway**
+
+# Coming Soon 
