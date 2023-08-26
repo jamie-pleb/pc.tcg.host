@@ -56,7 +56,7 @@ Cards are categorized into different rarity levels:
 #### 🟪 - RARE - Value: 7
 - wings221, EmoneyShrimp 
   - ![wings221](https://cdn.7tv.app/emote/613a6cfae92aa8cd4ed0e9d6/1x.webp)
-  - ![EmoneyShrimp](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_/default/dark/1.0)
+  - ![EmoneyShrimp](https://i.imgur.com/WTIivxb.png)
 
 #### 🟧 - ULTRA_RARE - Value: 21
 - Ogre, AIRWICK 
